@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m [Your Name]
+# 👋 Hey there, I’m Máté Cserháti
 
 💻 **Computer Science Student | Developer | Tech Enthusiast**  
 
