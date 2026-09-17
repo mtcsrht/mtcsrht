@@ -6,9 +6,9 @@
 
 ###  About Me  
 -  Currently studying **Computer Science** at university  
--  Working with **C#, Go, JavaScript/TypeScript, .NET, Angular, Next.js, Nuxt 3, Java**  
+-  Working with **Java, Go, JavaScript/TypeScript, Next.js**  
 -  Exploring **MongoDB, SQL, and REST/gRPC APIs, Postgre**   
--  Passionate about **backend services, web dev, IoT, and AI**  
+-  Passionate about **backend services, AI and ML**  
 
 ---
 
