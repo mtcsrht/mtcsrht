@@ -1,6 +1,6 @@
 #  Hey there, I’m Máté Cserháti
 
- **Computer Science Student | Developer | Tech Enthusiast**  
+ **Computer Science Student | Developer | AI/ML Enthusiast**  
 
 ---
 
@@ -26,7 +26,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Postgres-336791?style=for-the-badge&logo=postgres&logoColor=white)  
-![Postgres] ()
 
 ---
 
