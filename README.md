@@ -15,7 +15,7 @@
 ###  Tech Stack  
 ####  Languages & Frameworks  
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-00ADD8?style=for-the-badge&logo=java&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
@@ -25,7 +25,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/-Postgres-2496ED?style=for-the-badge&logo=postgres&logoColor=white)  
+![Git](https://img.shields.io/badge/-Postgres-336791?style=for-the-badge&logo=postgres&logoColor=white)  
 ![Postgres] ()
 
 ---
